@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Bienvenidos a TecniDEV 👋!
 
 <!--
 
